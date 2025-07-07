@@ -33,9 +33,8 @@ A 3D rocket landing simulation game built with Unity. The player controls a smal
 |  `Up`         | Thrust Up (Lift rocket)   |
 | `Left`        | Rotate Left               |
 | `Right`       | Rotate Right              |
-| `Space`       | Boost (optional, if used) |
 | `R`           | Restart level             |
-| `Esc`         | Pause / Return to Menu    |
+| `Esc`         | Exit Game                 |
 
 
 ## Tech Stack
