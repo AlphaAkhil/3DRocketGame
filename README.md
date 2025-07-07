@@ -18,9 +18,6 @@ A 3D rocket landing simulation game built with Unity. The player controls a smal
 ![Screenshot](./screenshots/ss4.png)
 
 
-
-> 🚧 Screenshots should be placed in a `screenshots/` folder within the repo.
-
 ## Features
 
 - 🚀 Physics-based rocket movement
